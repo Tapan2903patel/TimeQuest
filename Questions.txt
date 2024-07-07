@@ -1,0 +1,60 @@
+1. Number of primitive data types in Java are?
+	a) 6
+	b) 7
+	c) 8
+	d) 9
+c
+2. What is the size of float and double in java?
+	a) 32 and 64
+	b) 32 and 32
+	c) 64 and 64
+	d) 64 and 32
+a
+3. Automatic type conversion is possible in which of the possible cases?
+	a) Byte to Int
+	b) Int to Long
+	c) Long to Int
+	d) Short to Int
+b
+4. Select the valid statement.
+	a) char[] ch = new char(5)
+	b) char[] ch = new char[5]
+	c) char[] ch = new char()
+	d) char[] ch = new char[]
+b
+5. When an array is passed to a method, what does the method receive?
+	a) The referance of the array
+	b) A copy of the array
+	c) Length of the array
+	d) Copy of the first element
+a
+6. Select the valid statement to declare and initialize an array.
+	a) int[] A = {}
+	b) int[] A = {1,2,3}
+	c) int[] A = ()
+	d) int[][] A = {1,2,3}
+b
+7. Arrays in java are-
+	a) Object references
+	b) objects
+	c) Primitive datatype
+	d) None
+b
+8. When is the object created with new keyword?
+	a) At run time
+	b) At compile time
+	c) Depends on code
+	d) None
+a
+9. Identify the corrected definition of a package.
+	a) A package is collection of editing tools
+	b) A package is collection of classes
+	c) A package is collection of classes and interfaces
+	d) A package is collection of interfaces
+c
+10. compareTo() returns
+	a) True
+	b) False
+	c) An int value
+	d) None
+c
